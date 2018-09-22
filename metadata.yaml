@@ -1,11 +1,16 @@
 _repo: Leven-en-streven-van-L-R-Koolemans-Beynen_55522
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55522-h/images/cover.jpg
 creator:
   author:
     agent_name: Boissevain, Charles
     gutenberg_agent_id: '48383'
     url: http://www.gutenberg.org/2009/agents/48383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55522#Leven-en-streven-van-L-R-Koolemans-Beynen
 gutenberg_issued: '2017-09-10'
 gutenberg_type: Text
 identifiers:
